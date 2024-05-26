@@ -1,0 +1,16 @@
+.contactForm{
+    display: flex;
+    flex-direction: column;
+}
+.addButton{
+    width: 100px;
+    cursor: pointer;
+}
+.phoneLabel{
+    display: flex;
+    flex-direction: column;
+    font-weight: 600;
+}
+.phoneInput{
+    width: 200px;
+}

@@ -1,0 +1,16 @@
+.deletebtn {
+    display: flex;
+    margin: 5px;
+    width: 60px;
+    height: 20px;
+}
+.nameUl{
+    margin-left: -40px;
+}
+.itemLi{
+    display: flex;
+    list-style: none;
+    border: 1px solid;
+    width: 200px;
+    margin-left: -40px;
+}
